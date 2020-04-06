@@ -4,3 +4,8 @@ INSERT INTO Producto (id, descripcion, unidad_medida) VALUES
 (3, 'ALAMBRE GAL. C:18', 'ML'),
 (4, 'TORNILLOS SS 304 DE  8X1/2', 'UN'),
 (5, 'SILICONA', 'KG');
+
+INSERT INTO Item (id, nombre) VALUES
+(1, 'PREFUSOR'),
+(2, 'SOPORTES PREFUSOR'),
+(3, 'TRANSPORTE');
